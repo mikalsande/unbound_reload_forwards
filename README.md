@@ -15,9 +15,7 @@ It can also be run interactively for manual reload and or testing purposes. For
 convenience it prints the added and removed zones to standard out.
 
 ## Code Example
----
-python unbound_reload_forwards.py
----
+`python unbound_reload_forwards.py`
 
 ## License
 
